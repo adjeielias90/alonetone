@@ -314,7 +314,7 @@ GEM
       json
     record_tag_helper (1.0.0)
       actionview (~> 5.x)
-    redcarpet (3.4.0)
+    redcarpet (3.5.1)
     redis (4.0.1)
     request_store (1.4.1)
       rack (>= 1.4)
